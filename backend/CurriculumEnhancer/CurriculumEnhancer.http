@@ -1,0 +1,6 @@
+@CurriculumEnhancer_HostAddress = http://localhost:5139
+
+GET {{CurriculumEnhancer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
